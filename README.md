@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbongcawel
 - 👀 I’m interested in building web apps using bootstrap, php, and sql.
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning IaC and AWS.
 - 💞️ I’m looking to collaborate on uh.
 - 📫 How to reach me -> bongcawelkat@gmail.com
 
